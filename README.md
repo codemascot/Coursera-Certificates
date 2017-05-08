@@ -3,3 +3,4 @@
 - [Ruby on Rails: An Introduction](https://www.coursera.org/account/accomplishments/records/HWU3HD72UGWM)
 - [Rails with Active Record and Action Pack](https://www.coursera.org/account/accomplishments/certificate/MXVQPMDSHRH5)
 - [Ruby on Rails Web Services and Integration with MongoDB](https://www.coursera.org/account/accomplishments/certificate/G5R3QK7CS7KM)
+- [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/account/accomplishments/certificate/QEKP2BXUSASW)
