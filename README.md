@@ -8,3 +8,6 @@
 
 ## Web Application Development: Modern Full Stack Architectures - _University of New Mexico_
 - [Web Application Development: Basic Concepts](https://www.coursera.org/account/accomplishments/certificate/DQ3RKC2HDRPG)
+
+## Business Foundations - _Wharton School of the University of Pennsylvania_
+- [Introduction to Marketing](https://www.coursera.org/account/accomplishments/certificate/DQ3RKC2HDRPG)
